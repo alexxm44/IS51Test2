@@ -53,3 +53,16 @@ append number to list
 sort the list, then splice out the items before 13
 print message to user
 """
+
+grades = []
+
+for i in range(13):
+    print(i)
+    grades.append(float(input("Enter the grade: ")))
+
+grades.sort()
+grades = sum(grades[0:]) / 13
+# grades = sum(grades)
+# results = grades / 13
+
+print("Average Grade: {0: .0f}%".format(grades))
