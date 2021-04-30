@@ -7,3 +7,49 @@ output we have 13 highest number on the list, we sum them up and divide them by1
 output a message to the user
 end
 """
+
+"""
+create list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+sort the list, then splice out the items before 13
+print message to user
+"""
